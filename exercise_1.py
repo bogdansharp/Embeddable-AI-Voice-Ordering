@@ -1,3 +1,4 @@
+from helperFunctions import *
 file_name = "demo_1"
 
 def stt_testing(file):
